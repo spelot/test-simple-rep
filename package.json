@@ -1,0 +1,24 @@
+{
+  "name": "test-simple-rep",
+  "version": "1.0.0",
+  "description": "for using as test repository for ci server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spelot/test-simple-rep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spelot/test-simple-rep/issues"
+  },
+  "homepage": "https://github.com/spelot/test-simple-rep#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "date": "^1.0.2"
+  }
+}
