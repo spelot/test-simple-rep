@@ -1,1 +1,1 @@
-console.log("new feature in test simple rep");
+console.log("feature in test simple rep");
