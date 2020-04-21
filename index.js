@@ -1,1 +1,1 @@
-console.log("wow test simple rep");
+console.log("new feature in test simple rep");
